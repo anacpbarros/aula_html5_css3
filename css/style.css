@@ -29,8 +29,24 @@ footer {
 .img_padrao {
     margin-bottom: 20px;
     width: 300px;
+    border-radius: 10px;
+}
+
+.parceiros {
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 10px;
 }
 
 .logo {
     width: 30px;
 }
+
+.a :link {
+    color: blue;
+}
+
+.a :visited {
+    color: grey;
+}
+
